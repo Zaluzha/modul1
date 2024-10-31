@@ -23,3 +23,4 @@ var diff_in_days = Math.abs(date1.getDay() - date2.getDay());
 var diff_in_months = Math.abs(date1.getMonth() - date2.getMonth());
 var diff_in_years = Math.abs(date1.getFullYear() - date2.getFullYear());
 console.log("".concat(diff_in_days, " days, ").concat(diff_in_months, " months, ").concat(diff_in_years, " years"));
+console.log("----------------------------------------");
