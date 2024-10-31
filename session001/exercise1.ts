@@ -33,3 +33,6 @@ let diff_in_months = Math.abs(date1.getMonth() - date2.getMonth())
 let diff_in_years = Math.abs(date1.getFullYear() - date2.getFullYear())
 
 console.log(`${diff_in_days} days, ${diff_in_months} months, ${diff_in_years} years`)
+
+
+console.log("----------------------------------------")
